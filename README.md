@@ -77,8 +77,8 @@ I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD sec
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Ameen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Ameen's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aloffawy&show_icons=true&theme=radical" alt="Ameen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?aloffawy&layout=compact&theme=radical" alt="Ameen's Top Languages" />
 </p>
 
 ---
