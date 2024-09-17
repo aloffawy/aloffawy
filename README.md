@@ -8,6 +8,7 @@ I am a Cloud Security Engineer with a focus on delivering robust security soluti
 
 ### 🔧 Technologies & Tools
 
+#### DevOps & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -21,8 +22,22 @@ I am a Cloud Security Engineer with a focus on delivering robust security soluti
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+</p>
+
+#### SecOps Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk"/>
+  <img src="https://img.shields.io/badge/Veracode-000000?style=flat-square&logo=veracode&logoColor=white" alt="Veracode"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Intruder-1F1E38?style=flat-square&logo=intruder&logoColor=white" alt="Intruder"/>
+  <img src="https://img.shields.io/badge/Wfuzz-2C2C2C?style=flat-square&logo=wfuzz&logoColor=white" alt="Wfuzz"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Sentinel"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CloudTrail"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
 </p>
 
 ---
