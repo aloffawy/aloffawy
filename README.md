@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I am a highly experienced **DevSecOps** and **Cloud Security** professional with over 8 years of expertise in securing cloud infrastructure and embedding security into the development lifecycle. My experience spans various industries, where I have delivered robust security solutions that protect against ever-evolving cyber threats. I have a strong track record in integrating security best practices into DevOps workflows, performing security assessments, and ensuring continuous security compliance in cloud environments.
+I am an experienced **DevSecOps** and **Cloud Security** professional with over 8 years of expertise in securing cloud infrastructure and embedding security into the development lifecycle. My experience spans various industries, where I have delivered robust security solutions that protect against ever-evolving cyber threats. I have a strong track record in integrating security best practices into DevOps workflows, performing security assessments, and ensuring continuous security compliance in cloud environments.
 
 I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD security**, and **cloud architecture** to enhance organizational security posture. Passionate about improving security operations and automating security controls, I’m constantly learning to stay ahead in the fast-paced world of cloud and security technologies.
 
@@ -74,15 +74,6 @@ I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD sec
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aloffawy&show_icons=true&theme=radical" alt="Ameen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?aloffawy&layout=compact&theme=radical" alt="Ameen's Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 <p align="left">
@@ -100,4 +91,4 @@ I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD sec
 ---
 
 ### 💡 Fun Fact:
-I'm an advocate for secure coding practices and love participating in Capture The Flag (CTF) challenges during my free time!
+I'm an advocate for secure coding practices and love playing football during my free time!
