@@ -1,8 +1,14 @@
 # Hi there, I'm Ameen Abdulrazaq 👋
 
-🔒 **Cybersecurity Professional** | **Cloud Security Engineer** | **DevSecOps** | **CISSP** | **CCSP** | **MCSA** 
+🔒 **DevSecOps & Cloud Security Professional** | **CISSP** | **CCSP** | **MCSA** | **Certified DevSecOps Professional**
 
-I am a Cloud Security Engineer with a focus on delivering robust security solutions, ensuring cloud infrastructure protection, and driving secure development practices. With over 6 years of experience, I have worked on projects that range from threat modeling and vulnerability management to CI/CD pipeline automation, cloud security reviews, and more. I am passionate about building secure environments and providing innovative solutions to complex security challenges.
+---
+
+### 👨‍💻 About Me
+
+I am a highly experienced **DevSecOps** and **Cloud Security** professional with over 8 years of expertise in securing cloud infrastructure and embedding security into the development lifecycle. My experience spans various industries, where I have delivered robust security solutions that protect against ever-evolving cyber threats. I have a strong track record in integrating security best practices into DevOps workflows, performing security assessments, and ensuring continuous security compliance in cloud environments.
+
+I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD security**, and **cloud architecture** to enhance organizational security posture. Passionate about improving security operations and automating security controls, I’m constantly learning to stay ahead in the fast-paced world of cloud and security technologies.
 
 ---
 
@@ -65,13 +71,15 @@ I am a Cloud Security Engineer with a focus on delivering robust security soluti
 
 ### 🌱 What I'm currently learning
 - Advanced cloud security architectures, focusing on multi-cloud environments and Zero Trust frameworks.
-  
+
 ---
 
-### 📝 Blogs & Publications
-- [The Internet is Down, An End-user Worst Nightmare](https://bit.ly/2sJF7hZ)
-- [Protecting Web Browsers from Cyber Attack](https://bit.ly/3yBBric)
-- [Network Loops and Loop Avoidance](https://bit.ly/2JnKTMa)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Ameen's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Ameen's Top Languages" />
+</p>
 
 ---
 
