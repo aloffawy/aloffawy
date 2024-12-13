@@ -61,6 +61,8 @@ I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD sec
 - **Certified DevSecOps Professional (CDP)**
 - **Certified Cloud Security Professional (CCSP)**
 - **Certified Information System Security Professional (CISSP)**
+- **AWS Certified Security Speciality**
+- **AWS Certified Solutions Architect - Associate**
 - **Microsoft Certified DevOps Engineer Expert (AZ-400)**
 - **Microsoft Certified Azure Security Engineer Associate (AZ-500)**
 - **Microsoft Certified Security Administrator Associate (MS-500)**
@@ -71,6 +73,7 @@ I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD sec
 
 ### 🌱 What I'm currently learning
 - Advanced cloud security architectures, focusing on multi-cloud environments and Zero Trust frameworks.
+- Intergrating security tools into CI/CD pipline.
 
 ---
 
