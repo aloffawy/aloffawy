@@ -94,4 +94,4 @@ I thrive in roles where I can bring my skills in **Azure**, **AWS**, **CI/CD sec
 ---
 
 ### 💡 Fun Fact:
-I'm an advocate for secure coding practices and love playing football during my free time!
+I'm an advocate for secure coding practices and love playing football during my free time! Cheers!
